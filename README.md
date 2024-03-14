@@ -1,3 +1,5 @@
+This project retrieves and analyzes tweets about the Russo-Ukrainian War. It uses techniques like text processing, Exploratory Data Analysis, tf-idf indexing, and Word2Vec ranking to understand the content of the tweets. The project also includes a Search Engine WebApp with a built-in web analytics section for further data exploration. You can input queries and the system will rank the tweets based on their relevance. The Tweet2Vec ranking is not used in the final version of the search engine web, but it has been successfully used for local benchmarking.
+
 ## Starting the Web App
 
 ```bash
