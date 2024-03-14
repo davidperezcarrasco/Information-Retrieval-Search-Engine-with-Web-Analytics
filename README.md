@@ -6,7 +6,7 @@ This project retrieves and analyzes tweets about the Russo-Ukrainian War. It use
 python -V
 # Make sure we use Python 3
 
-cd search-engine-web-app
+cd search-engine
 python web_app.py
 ```
 The above will start a web server with the application:
